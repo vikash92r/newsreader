@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "totalResults": 2,
+  "results": [
+    {
+      "article_id": "123",
+      "title": "La democracia de EE.UU. no ha superado su declive desde la era de Trump, según informe",
+      "description": "Swift 5.5 introduces async/await and more.",
+      "content": "Full content of the article...",
+      "image_url": "https://www.infobae.com/resizer/v2/7BIGBSCB2RDVZJMCSR4JGFOPUM.jpg?auth=a833674a0ed56f309ff3507b3bcf6495ab3db7267d322a0367fa1280e48e4de9"
+    },
+    {
+      "article_id": "124",
+      "title": "SwiftUI Improvements",
+      "description": "SwiftUI now supports better animations.",
+      "content": "Full content of the second article...",
+      "image_url": "https://example.com/image2.jpg"
+    }
+  ]
+}
