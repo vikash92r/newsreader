@@ -14,20 +14,14 @@ The News Reader app is an iOS application that allows users to browse, read, and
 
 ## Getting Started
 
-### Prerequisites
-
-- Xcode 15 or later
-- Swift 5.8 or later
-
 ### Installation
 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/news-reader-app.git
+   git clone https://github.com/vikash92r/newsreader.git
    cd news-reader-app
    ```
-
 
 ### Running the App
 
